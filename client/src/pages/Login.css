@@ -1,0 +1,124 @@
+/* Login.css
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: blueviolet;
+  }
+  
+  .login-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .login-title {
+    color: #40513b;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .login-subtitle {
+    color: #592020;
+    font-size: 16px;
+  }
+  
+  .login-form {
+    width: 450px;
+    background-color: #232222;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .login-form .ant-form-item {
+    margin-bottom: 15px;
+  }
+  
+  .login-button {
+    height: 45px;
+    border: none;
+    background-color: #5a894b;
+    color: #ffffff;
+  }
+  
+  .login-button:hover {
+    background-color: #344932;
+  }
+  
+  .login-footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .login-footer-text {
+    color: #999999;
+  }
+  
+  .login-footer-link {
+    color: #40513b;
+  }
+   */
+   /* Login.css */
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f2f2f2;
+  }
+  
+  .login-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .login-title {
+    color: #40513b;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .login-subtitle {
+    color: #999999;
+    font-size: 16px;
+  }
+  
+  .login-form {
+    width: 450px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .login-form .ant-form-item {
+    margin-bottom: 15px;
+  }
+  
+  .login-button {
+    height: 45px;
+    border: none;
+    background-color: #40513b;
+    color: #ffffff;
+  }
+  
+  .login-button:hover {
+    background-color: #344932;
+  }
+  
+  .login-footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .login-footer-text {
+    color: #999999;
+  }
+  
+  .login-footer-link {
+    color: #40513b;
+  }
+  
